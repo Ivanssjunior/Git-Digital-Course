@@ -5,3 +5,5 @@
 ### Salvando as modificacoes no GIT 
 
 #### Nova altercao 
+
+* uso do comando restore 

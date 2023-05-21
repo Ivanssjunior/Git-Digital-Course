@@ -6,4 +6,6 @@
 
 #### Nova altercao 
 
-* uso do comando restore 
+* uso do comando log 
+
+** Testando comando git restore
